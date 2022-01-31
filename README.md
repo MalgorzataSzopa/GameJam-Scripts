@@ -1,6 +1,7 @@
 # GameJam project - 'Lu'
 ### Game download link:
-###  https://globalgamejam.org/2022/games/lu-3
+##  https://globalgamejam.org/2022/games/lu-3
+### Download LuGame.zip from Executable.
 <br />
 <img src="https://raw.githubusercontent.com/MalgorzataSzopa/PictureHost/master/Menu.gif" width="700px">
 <br />
